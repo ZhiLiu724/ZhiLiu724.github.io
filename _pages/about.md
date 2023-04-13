@@ -12,7 +12,7 @@ Hello! I am a third-year PhD student of Operations Research at [Cornell Tech](ht
 
 
 
-My research interest lies in the study of societal systems using mechanism design and data science/machine learning techniques, in order to improve their efficiency and promote equitable usage. I am particularly fascinated by people's behavioral patterns in different settings and the means to understand them. Things I have worked on during my PhD studies include [college admission](https://arxiv.org/abs/2107.08922) and [311 systems](https://arxiv.org/abs/2204.08620).
+My research interest lies in the study of societal systems using mechanism design and data science/machine learning techniques, in order to improve their efficiency and promote equitable usage. I am particularly fascinated by people's behavioral patterns in different settings and the means to understand them. Things I have worked on during my PhD studies include [college admission](https://arxiv.org/abs/2107.08922) and [311 systems](https://arxiv.org/abs/2204.08620). I am really excited about working with the New York Public Library as part of the PiTech Fellowship program this coming summer!
 
 
 
