@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version (updated September 2022)](../files/cv.pdf)
+[PDF version (updated June 2023)](../files/cv.pdf)
 
 Education
 ======
