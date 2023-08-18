@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhi Liu"
 title_separator          : "-"
 name                     : &name "Zhi Liu"
-description              : &description "PhD student at Cornell Tech"
+description              : &description "PhD candidate at Cornell Tech"
 url                      : https://ZhiLiu724.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhiLiu724/ZhiLiu724.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhi Liu 刘至"
   avatar           : "avatar.png"
-  bio              : "Third-year PhD Student at Cornell Tech."
+  bio              : "4th-year PhD Candidate at Cornell Tech."
   location         : "New York, NY, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
