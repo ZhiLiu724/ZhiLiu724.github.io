@@ -12,7 +12,7 @@ Hello! I am Zhi ([see how it's pronounced](https://en.wiktionary.org/wiki/zhì))
 
 
 
-My research interest can be broadly summarized as identifying and addressing disparities in societal systems, using techniques from machine learning and optimization, in order to improve their efficiency while promoting equitable usage. Things I have worked on during my PhD studies include [college admission](https://arxiv.org/abs/2107.08922), [311 systems](https://arxiv.org/abs/2204.08620). I was incredibly fortunate to have worked with the New York Public Library as part of the PiTech PhD Fellowship program during the Summer of 2023.
+My research interest can be broadly summarized as identifying and addressing disparities in societal systems, using techniques from machine learning and optimization, in order to improve their efficiency while promoting equitable usage. Things I have worked on during my PhD studies include [college admission](https://arxiv.org/abs/2107.08922), [311 systems](https://arxiv.org/abs/2204.08620). I am incredibly fortunate to have worked with the New York Public Library as part of the PiTech PhD Fellowship program during the Summer of 2023.
 
 
 
