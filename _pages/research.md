@@ -27,7 +27,7 @@ author_profile: true
 
 1. **Redesigning Service-Level-Agreements in Public Operations**
 
-   with Nikhil Garg
+   with Nikhil Garg.
 
 
 
