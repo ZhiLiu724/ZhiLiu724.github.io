@@ -20,6 +20,8 @@ Teaching experience
 ======
 * Teaching assistant for [ORIE5355](https://orie5355.github.io/Fall_2021/) Fall 2021/2022/2023/2024
 * Teaching assistant for [CS5433]([Class Roster - Spring 2023 - CS 5433 (cornell.edu)](https://classes.cornell.edu/browse/roster/SP23/class/CS/5433)) Spring 2023
+
+
 Skills
 ======
 
