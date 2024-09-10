@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Zhi ([see how it's pronounced](https://en.wiktionary.org/wiki/zhì)), a fourth-year PhD candidate of Operations Research at [Cornell Tech](https://www.tech.cornell.edu/), where I am lucky to be advised by Professor [Nikhil Garg](https://gargnikhil.com/). 
+Hello! I am Zhi ([how to pronounce?](https://en.wiktionary.org/wiki/zhì)), a fourth-year PhD candidate of Operations Research at [Cornell Tech](https://www.tech.cornell.edu/), where I am lucky to be advised by Professor [Nikhil Garg](https://gargnikhil.com/). 
 
 
 
-My research interest can be broadly summarized as identifying and addressing disparities in societal systems, using techniques from machine learning and optimization, in order to improve their efficiency while promoting equitable usage. Things I have worked on during my PhD studies include [college admission](https://arxiv.org/abs/2107.08922), [311 systems](https://arxiv.org/abs/2204.08620). I am incredibly fortunate to have worked with the New York Public Library as part of the PiTech PhD Fellowship program during the Summer of 2023.
+I am broadly interested in the interplay of data, policy, and societal systems: how are data generated, what can we learn from them, and how do we design practical policies to improve these systems. Things I have worked on during my PhD studies include [college admission](https://arxiv.org/abs/2107.08922), [311 systems for reporting incidents in cities](https://arxiv.org/abs/2204.08620), and [public library systems]([Identifying and Addressing Disparities in Public Libraries with Bayesian Latent Variable Modeling | Proceedings of the AAAI Conference on Artificial Intelligence](https://ojs.aaai.org/index.php/AAAI/article/view/30231)). I am incredibly fortunate to have worked with the New York Public Library as part of the PiTech PhD Fellowship program during the Summer of 2023. During the Summer of 2024, I interned at Theorem LP, specializing in loan-level risk prediction and underwriting.
 
 
 
@@ -20,4 +20,4 @@ Previously, I obtained my BE in Industrial Engineering from [Tsinghua University
 
 
 
-Outside of office, you will most likely find me hiking, rock climbing/working out, or taking photos of the beautiful world around me. If you are interested in the theory of optimization algorithms and mathematics of data science, check out some amazing work by my partner [Tao](https://taotolojiang.github.io/).
+Outside of office, you will most likely find me hiking, rock climbing, or taking photos of the beautiful world around me. If you are interested in the theory of optimization algorithms and mathematics of data science, check out some amazing work by my partner [Tao](https://taotolojiang.github.io/).

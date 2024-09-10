@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Zhi Liu 刘至"
-  avatar           : "avatar.png"
-  bio              : "4th-year PhD Candidate at Cornell Tech."
+  avatar           : "avatar.jpg"
+  bio              : "5th-year PhD Candidate at Cornell Tech."
   location         : "New York, NY, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,7 +99,7 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        : "zhil_photos"
+  instagram        : #"zhil_photos"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ZhiLiu724"
+  twitter          : #"ZhiLiu724"
   vine             :
   weibo            :
   xing             :
