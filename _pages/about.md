@@ -12,7 +12,7 @@ Hello! I am Zhi ([how to pronounce?](https://en.wiktionary.org/wiki/zhì)), a fo
 
 
 
-I am broadly interested in the interplay of data, policy, and societal systems: how are data generated, what can we learn from them, and how do we design practical policies to improve these systems. Things I have worked on during my PhD studies include [college admission](https://arxiv.org/abs/2107.08922), [311 systems for reporting incidents in cities](https://arxiv.org/abs/2204.08620), and [public library systems]([Identifying and Addressing Disparities in Public Libraries with Bayesian Latent Variable Modeling | Proceedings of the AAAI Conference on Artificial Intelligence](https://ojs.aaai.org/index.php/AAAI/article/view/30231)). I am incredibly fortunate to have worked with the New York Public Library as part of the PiTech PhD Fellowship program during the Summer of 2023. During the Summer of 2024, I interned at Theorem LP, specializing in loan-level risk prediction and underwriting.
+I am broadly interested in the interplay of data, policy, and societal systems: how are data generated, what can we learn from them, and how do we design practical policies to improve these systems. Things I have worked on during my PhD studies include [college admission](https://arxiv.org/abs/2107.08922), [311 systems for reporting incidents in cities](https://arxiv.org/abs/2204.08620), and [public library systems](https://ojs.aaai.org/index.php/AAAI/article/view/30231). I am incredibly fortunate to have worked with the New York Public Library as part of the PiTech PhD Fellowship program during the Summer of 2023. During the Summer of 2024, I interned at Theorem LP, specializing in loan-level risk prediction and underwriting.
 
 
 
