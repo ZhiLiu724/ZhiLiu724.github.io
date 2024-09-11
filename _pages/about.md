@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Zhi ([how to pronounce?](https://en.wiktionary.org/wiki/zhì)), a fourth-year PhD candidate of Operations Research at [Cornell Tech](https://www.tech.cornell.edu/), where I am lucky to be advised by Professor [Nikhil Garg](https://gargnikhil.com/). 
+Hello! I am Zhi ([how to pronounce?](https://en.wiktionary.org/wiki/zhì)), a fifth-year PhD candidate of Operations Research at [Cornell Tech](https://www.tech.cornell.edu/), where I am lucky to be advised by Professor [Nikhil Garg](https://gargnikhil.com/). 
 
 
 
