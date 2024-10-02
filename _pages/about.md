@@ -20,4 +20,4 @@ Previously, I obtained my BE in Industrial Engineering from [Tsinghua University
 
 
 
-Outside of office, you will most likely find me hiking, rock climbing, or taking photos of the beautiful world around me. If you are interested in the theory of optimization algorithms and mathematics of data science, check out some amazing work by my partner [Tao](https://taotolojiang.github.io/).
+Outside of office, I enjoy spending time in nature. If you are interested in the theory of optimization algorithms and mathematics of data science, check out some amazing work by my partner [Tao](https://taotolojiang.github.io/).
