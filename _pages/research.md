@@ -24,6 +24,12 @@ author_profile: true
 
    ZL and Nikhil Garg, in *AAAI/ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO‘21)*.
 
+## Working papers
+
+1. **Optimizing Library Usage and Browser Experience: Application to the New York Public Library**
+
+   with Wenchang Zhu (Cornell Tech), Sarah Ranking (NYPL) and Nikhil Garg.
+
 
 
 
